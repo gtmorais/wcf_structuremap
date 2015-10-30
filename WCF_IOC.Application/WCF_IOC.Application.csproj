@@ -70,10 +70,6 @@
       <Project>{b5435140-e6e5-4c14-9f6e-31eefc12728b}</Project>
       <Name>WCF_IOC.Infra.CrossCutting.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\WCF_IOC.Infra.CrossCutting.Dtos\WCF_IOC.Infra.CrossCutting.Dtos.csproj">
-      <Project>{5C0815A3-16E0-4CF5-825A-5094455291B5}</Project>
-      <Name>WCF_IOC.Infra.CrossCutting.Dtos</Name>
-    </ProjectReference>
     <ProjectReference Include="..\WCF_IOC.Infra.Data\WCF_IOC.Infra.Data.csproj">
       <Project>{D8707B49-CE61-4796-BEE8-7AC13172906F}</Project>
       <Name>WCF_IOC.Infra.Data</Name>
