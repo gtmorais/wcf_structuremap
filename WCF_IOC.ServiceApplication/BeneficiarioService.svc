@@ -1,0 +1,2 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Cabesp.ServicosBenner.Services.Servicos.BeneficiarioService" CodeBehind="Cabesp.ServicosBenner.Services.Servicos.BeneficiarioService.cs" %>
+                                                    

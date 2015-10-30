@@ -1,0 +1,2 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCF_IOC.Services.Servicos.CityService" CodeBehind="WCF_IOC.Services.Servicos.CityService.cs" Factory="WCF_IOC.Config.ServiceFactory" %>
+
